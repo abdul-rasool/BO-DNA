@@ -16,6 +16,7 @@ import plot_boxplot as box_plot
 warnings.simplefilter(action="ignore")
 
 
+
 def selector(algo, func_details, popSize, Iter):
     function_name = func_details[0]
     lb = func_details[1]
