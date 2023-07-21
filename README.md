@@ -4,6 +4,7 @@ BO-DNA: Biologically optimized encoding model for a highly-reliable DNA data sto
 
 ## What is BO-DNA?
 
+
 BO-DNA proposes a novel **b**iologically **o**ptimized encoding for **DNA** data storage (**BO-DNA**) to overcome the reliability problem. BO-DNA is developed by a new rule-based mapping method to avoid data drop during the transcoding of binary data to premier nucleotides. A customized optimization algorithm based on a tent chaotic map is applied to maximize the lower bounds that help to minimize the nonspecific hybridization errors. The robustness of BO-DNA is computed by four bio-constraints to confirm the reliability of newly generated DNA sequences.
 
 These results strengthen our idea for the practical implementation of an optimization algorithm for DNA code generation with effective performance. The improved lower bounds (12%–59%) of DNA coding sets are received and compared with prior studies. The encoding efficiencies significantly improved in many aspects. For instance, BO-DNA reported 1.77 average density, which is higher to a different extent than existing studies, i.e., 0.40% higher than Song's work published in 2022, and 1.44% higher than Goldman's reported in 2013
