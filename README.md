@@ -62,7 +62,7 @@ pip3 install -r requirements.txt
 
 # License
 
-BO-DNA is licensed under the GNU General Public License, for more information read the LICENSE file or refer to:
+BO-DNA is licensed under the GNU General Public License; for more information, read the LICENSE file or refer to:
 
 http://www.gnu.org/licenses/
 
