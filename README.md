@@ -1,4 +1,4 @@
-# BO-DNA
+# BO-DNA: Biologically optimized encoding model for a highly-reliable DNA data storage
 
 BO-DNA: Biologically optimized encoding model for a highly-reliable DNA data storage
 
